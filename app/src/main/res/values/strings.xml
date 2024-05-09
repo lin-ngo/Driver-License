@@ -28,12 +28,12 @@
     <string name="text_example_questions">Câu hỏi: Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?</string>
     <string name="text_title_explain">Giải thích:</string>
     <string name="text_temp_position">1</string>
-    <string name="text_default_detail_exam">Màn hình thi</string>
+    <string name="text_default_detail_exam">Thực hiện bài thi</string>
     <string name="text_temp_question_category">Khái niệm và quy tắc</string>
     <string name="text_temp_numbers_of_questions">60 Câu</string>
     <string name="text_temp_numbers_of_selected_question">3/70</string>
-    <string name="text_temp_nav_detail_study">Màn hình ôn tập</string>
-    <string name="text_temp_nav_instruction">Màn hình hướng dẫn thi</string>
+    <string name="text_temp_nav_detail_study">Ôn tập</string>
+    <string name="text_temp_nav_instruction">Hướng dẫn thi</string>
     <string name="button_finish_exam_text">Kết thúc</string>
     <string name="current_time_exam_text">19:00</string>
     <string name="text_empty_data">Không có dữ liệu!!</string>
